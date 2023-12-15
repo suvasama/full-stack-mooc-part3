@@ -1,0 +1,27 @@
+{
+  "name": "full-stack-mooc-part3",
+  "version": "1.0.0",
+  "description": "Code related to Exercises in Part 3 of the course.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvasama/full-stack-mooc-part3.git"
+  },
+  "author": "Suvi Vasama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvasama/full-stack-mooc-part3/issues"
+  },
+  "homepage": "https://github.com/suvasama/full-stack-mooc-part3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
